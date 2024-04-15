@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **LLMs**
 
-- 👯 I’m looking to collaborate on [Pyannote Pipeline](https://github.com/pyannote/pyannote-audio)
-
 - 🤝 I’m looking for help with **Computer Vision Project, not yet uploaded**
 
 - 👨‍💻 Some of my projects are going to be available at [my Github repos](https://github.com/Gamo-H?tab=projects)
@@ -17,7 +15,6 @@
 
 - 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1YsDwMOIwSRU4xmT7vf2vnPCnFrB3vI4i/view?usp=sharing)
 
-- ⚡ Fun fact **I am getting started on Github, I was a ghost for many years, now it's time to share some of my projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
