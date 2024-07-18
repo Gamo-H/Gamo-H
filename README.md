@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on a team project [Gender Bias Study in Conference Interruptions using ML](https://github.com/users/Gamo-H/projects/1)
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently focusing on **LLMs**
 
-- 🤝 I’m looking for help with **Computer Vision Project, not yet uploaded**
-
-- 👨‍💻 Some of my projects are going to be available at [my Github repos](https://github.com/Gamo-H?tab=projects)
+- 👨‍💻 Not all my projects are available at [my Github repos](https://github.com/Gamo-H?tab=projects)
 
 - 💬 Ask me about **My studies, projects or anything else**
 
