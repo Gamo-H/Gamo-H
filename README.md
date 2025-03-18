@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
 <h3 align="center">3rd year engineering student specializing in Applied Mathematics and Machine Learning</h3>
 
-- 🔭 I’m currently working on a team project [Gender Bias Study in Conference Interruptions using ML](https://github.com/users/Gamo-H/projects/1)
-
-- 🌱 I’m currently focusing on **LLMs**
-
-- 👨‍💻 Not all my projects are available at [my Github repos](https://github.com/Gamo-H?tab=projects)
- 
-- 💬 Ask me about **My studies, projects or anything else**
-
-- 📫 How to reach me **hala.gamouhh@gmail.com**
-
-- 📄 Know about my experiences [my Resume](https://drive.google.com/file/d/1YsDwMOIwSRU4xmT7vf2vnPCnFrB3vI4i/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
