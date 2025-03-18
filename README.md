@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
-<h3 align="center">Highly motivated, detail oriented, dynamic 2nd year engineering student specializing in Applied Mathematics and Machine Learning</h3>
+<h3 align="center">3rd year engineering student specializing in Applied Mathematics and Machine Learning</h3>
 
 - 🔭 I’m currently working on a team project [Gender Bias Study in Conference Interruptions using ML](https://github.com/users/Gamo-H/projects/1)
 
