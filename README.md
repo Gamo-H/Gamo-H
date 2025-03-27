@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
-<h3 align="center">3rd year engineering student specializing in Applied Mathematics and Machine Learning</h3>
+<h3 align="center">Engineering student enjoying Applied Mathematics and Machine Learning</h3>
 
 
 <h3 align="left">Connect with me:</h3>
